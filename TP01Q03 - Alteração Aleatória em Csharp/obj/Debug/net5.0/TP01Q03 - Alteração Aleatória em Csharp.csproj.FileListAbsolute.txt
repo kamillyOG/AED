@@ -1,0 +1,16 @@
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\obj\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\obj\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\obj\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\obj\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\obj\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\bin\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.exe
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\bin\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.deps.json
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\bin\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.runtimeconfig.json
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\bin\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\bin\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.dll
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\bin\Debug\net5.0\ref\TP01Q03 - Alteração Aleatória em Csharp.dll
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\bin\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.pdb
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\obj\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.dll
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\obj\Debug\net5.0\ref\TP01Q03 - Alteração Aleatória em Csharp.dll
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\obj\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.pdb
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q03 - Alteração Aleatória em Csharp\obj\Debug\net5.0\TP01Q03 - Alteração Aleatória em Csharp.genruntimeconfig.cache

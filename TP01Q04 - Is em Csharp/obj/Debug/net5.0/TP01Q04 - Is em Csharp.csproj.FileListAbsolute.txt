@@ -1,0 +1,16 @@
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\obj\Debug\net5.0\TP01Q04 - Is em Csharp.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\obj\Debug\net5.0\TP01Q04 - Is em Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\obj\Debug\net5.0\TP01Q04 - Is em Csharp.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\obj\Debug\net5.0\TP01Q04 - Is em Csharp.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\obj\Debug\net5.0\TP01Q04 - Is em Csharp.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\bin\Debug\net5.0\TP01Q04 - Is em Csharp.exe
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\bin\Debug\net5.0\TP01Q04 - Is em Csharp.deps.json
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\bin\Debug\net5.0\TP01Q04 - Is em Csharp.runtimeconfig.json
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\bin\Debug\net5.0\TP01Q04 - Is em Csharp.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\bin\Debug\net5.0\TP01Q04 - Is em Csharp.dll
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\bin\Debug\net5.0\ref\TP01Q04 - Is em Csharp.dll
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\bin\Debug\net5.0\TP01Q04 - Is em Csharp.pdb
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\obj\Debug\net5.0\TP01Q04 - Is em Csharp.dll
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\obj\Debug\net5.0\ref\TP01Q04 - Is em Csharp.dll
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\obj\Debug\net5.0\TP01Q04 - Is em Csharp.pdb
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q04 - Is em Csharp\obj\Debug\net5.0\TP01Q04 - Is em Csharp.genruntimeconfig.cache

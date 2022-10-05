@@ -1,0 +1,16 @@
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\obj\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\obj\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\obj\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\obj\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\obj\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\bin\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.exe
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\bin\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.deps.json
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\bin\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.runtimeconfig.json
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\bin\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\bin\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.dll
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\bin\Debug\net5.0\ref\TP01Q05 - Palíndromo em Csharp - Recursivo.dll
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\bin\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.pdb
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\obj\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.dll
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\obj\Debug\net5.0\ref\TP01Q05 - Palíndromo em Csharp - Recursivo.dll
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\obj\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.pdb
+C:\Users\kamil\Desktop\Kamilly\Faculdade\2º Semestre\Algoritimos e Estrutura de dados\TP1\TP01Q05 - Palíndromo em Csharp - Recursivo\obj\Debug\net5.0\TP01Q05 - Palíndromo em Csharp - Recursivo.genruntimeconfig.cache
